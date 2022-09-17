@@ -1,5 +1,21 @@
 ## ROS -- Navigation, Manipulation, Mimicking, Sensor Fusion, VR, Speech Recogition, Activity Recognition, Computer Vision
 
+### Navigation
+
+### Manipulation
+
+### Mimicking
+
+### Sensor Fusion
+
+### VR
+
+### Speech Recognition
+
+### Activity Recognition
+
+### Computer Vision 
+
 <!--
 
 **Here are some ideas to get you started:**
