@@ -1,4 +1,12 @@
-## ROS -- Navigation, Manipulation, Mimicking, Sensor Fusion, VR, Speech Recogition, Activity Recognition
+# Organization Website
+- https://robotics-sensors.github.io/
+
+# Information Organization
+- Public Api / Sdk / Packages / Library information on usability, installation will be on organization websites
+- Private Application / Architecture / Automation / Api / Sdk / Packages / Library / Designs information on usability, installation will be the company website
+
+
+## ROS/ROS2 -- Navigation, Manipulation, Mimicking, Sensor Fusion, VR, Speech Recogition, Activity Recognition
 
 ### Navigation
 
