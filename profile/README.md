@@ -9,8 +9,8 @@
 
 
 # Research
-- Research related to this organization will be in research papaer published by Ronaldson Bellande or the company
-- None Published Research related to this organization will be on company website
+- Research related to this organization will be in research papaer published by Ronaldson Bellande
+- None Published research will only have demos on company website
 
 
 ## ROS/ROS2 -- Navigation, Manipulation, Mimicking, Sensor Fusion, VR, Speech Recogition, Activity Recognition
