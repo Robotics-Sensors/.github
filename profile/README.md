@@ -13,7 +13,7 @@
 - None Published research will only have demos on company website
 
 # 👩‍💻 Stable Versions
-- Current Organization will have stable versions of https://github.com/Application-UI-UX public packages
+- Current Organization will have stable versions of repository in https://github.com/Application-UI-UX
 
 
 ## ROS/ROS2 -- Navigation, Manipulation, Mimicking, Sensor Fusion, VR, Speech Recogition, Activity Recognition
