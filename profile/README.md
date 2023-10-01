@@ -1,5 +1,5 @@
 # 🧙 Organization Website
-- https://robotics-sensors.github.io/
+- https://robotics-sensors.github.io
 
 
 # 🙋‍♀️ Information Organization
@@ -11,6 +11,9 @@
 # 🌈 Research
 - Research related to this organization will be in research papaer published by Ronaldson Bellande
 - None Published research will only have demos on company website
+
+# 👩‍💻 Stable Versions
+- Current Organization will have stable versions of https://github.com/Application-UI-UX public packages
 
 
 ## ROS/ROS2 -- Navigation, Manipulation, Mimicking, Sensor Fusion, VR, Speech Recogition, Activity Recognition
@@ -35,9 +38,9 @@
 
 # 🍿 Syncs Organization 
 
-- https://github.com/Application-UI-UX/
-- https://github.com/Artificial-Intelligence-Computer-Vision/
-- https://github.com/Algorithm-Model-Research/
+- https://github.com/Application-UI-UX
+- https://github.com/Artificial-Intelligence-Computer-Vision
+- https://github.com/Algorithm-Model-Research
 
 
 <!--
