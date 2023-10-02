@@ -22,7 +22,7 @@
 --------------------------------------------------------------------------------------------------------
 
 
-## ROS/ROS2 -- Navigation, Manipulation, Mimicking, Sensor Fusion, VR, Speech Recogition, Activity Recognition
+## ⚡ ROS/ROS2 -- Navigation, Manipulation, Mimicking, Sensor Fusion, VR, Speech Recogition, Activity Recognition
 
 ### Navigation
 
