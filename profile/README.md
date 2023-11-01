@@ -2,6 +2,11 @@
 [![Discord](https://img.shields.io/badge/Join%20our-Discord-7289DA?logo=discord&style=for-the-badge)](https://discord.gg/Yc72nd4w)
 [![Sponsor](https://img.shields.io/badge/Sponsor-Robotics%20Sensors%20Research-red?style=for-the-badge&logo=github)](https://github.com/sponsors/Robotics-Sensors)
 
+
+# 📫 Director & Founder & Owner of RSR Organization
+- **Ronaldson Bellande**
+- **ronaldsonbellande@gmail.com**
+
 # 🧙 Organization Website
 - https://robotics-sensors.github.io
 
