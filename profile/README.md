@@ -36,18 +36,25 @@
 ## ⚡ ROS/ROS2 -- Navigation, Manipulation, Mimicking, Sensor Fusion, VR, Speech Recogition, Activity Recognition
 
 ### Navigation
+- 100% private contact Director director of organization
 
 ### Manipulation
+- 100% private contact Director director of organization
 
 ### Mimicking
+- 100% private contact Director director of organization
 
 ### Sensor Fusion
+- 100% private contact Director director of organization
 
 ### VR
+- 100% private contact Director director of organization
 
 ### Speech Recognition
+- 100% private contact Director director of organization
 
 ### Activity Recognition
+- 99% private contact Director director of organization
 
 
 ## 📈 Organization Stats: <a href="https://github.com/Robotics-Sensors"> <img src="https://komarev.com/ghpvc/?username=Robotics-Sensors&label=Profile+Views&color=2e8b57&style=flat" /></a>
