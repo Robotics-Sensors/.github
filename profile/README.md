@@ -13,11 +13,13 @@
 # 🌱 Discord Community
 - https://discord.gg/Yc72nd4w
 
+# ⚡ Contact
+This codebase is protected by strict usage policies and is exclusively intended for personal, non-commercial, and educational purposes. Any form of utilization, modification, or integration of this codebase by private or public companies, governmental organizations, or any entities, whether for profit or non-profit, is strictly prohibited without obtaining explicit, written permission from the organization director. The code is provided 'as is,' without any warranties or assurances. Unauthorized use, reproduction, or distribution of this codebase is a violation of the licensing terms and may result in legal consequences. For inquiries regarding commercial or organizational usage, interested parties are required to contact the author to discuss licensing agreements and obtain permission. These measures are in place to uphold ethical and responsible use of this intellectual property while fostering collaboration within the intended scope
+
 # 🙋‍♀️ Information Organization
 - Public Api / Sdk / Packages / Library limited information on usability and installation will be on organization websites
 - Private Application / Architecture / Automation / Api / Sdk / Packages / Library / Designs information on usability, installation will be on company website
 - Public Api / Sdk / Packages / Library full information on usability and installation will be on company website
-
 
 # 🌈 Research
 - Research related to this organization will be in research papaer published by Ronaldson Bellande
@@ -29,7 +31,8 @@
 
 
 # 💼 USE CASE
-* Every repository within our organization is a valuable resource that can be utilized for educational purposes by individuals who actively contribute to the repository or choose to become sponsors of the organization. For those who wish to use our services conversationally, the acquisition of a license and subscription from our company website is mandatory. This ensures that the services are appropriately compensated for their use. Additionally, services designated as private, acquiring a license and subscription can be facilitated through our company website. We encourage interested parties to visit our website to explore and procure the necessary licenses and subscriptions for the diverse range of services and products we offer. Your support and commitment enable us to maintain and enhance the quality of our offerings, contributing to a thriving collaborative environment.
+Every repository within our organization is a valuable resource that can be utilized for educational purposes by individuals who actively contribute to the repository or choose to become sponsors of the organization. For those who wish to use our services conversationally, the acquisition of a license and subscription from our company website is mandatory. This ensures that the services are appropriately compensated for their use. Additionally, services designated as private, acquiring a license and subscription can be facilitated through our company website. We encourage interested parties to visit our website to explore and procure the necessary licenses and subscriptions for the diverse range of services and products we offer. Your support and commitment enable us to maintain and enhance the quality of our offerings, contributing to a thriving collaborative environment.
+
 --------------------------------------------------------------------------------------------------------
 
 
