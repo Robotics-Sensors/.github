@@ -39,7 +39,7 @@ Every repository within our organization is a valuable resource that can be util
 ## ⚡ ROS/ROS2 -- Navigation, Manipulation, Mimicking, Sensor Fusion, VR, Speech Recogition, Activity Recognition
 
 ### Humanoid Robotics
-- 99% private contact director of organization
+- 50% private contact director of organization
 
 ### 4 Legged Robots
 - 100% private contact director of organization
