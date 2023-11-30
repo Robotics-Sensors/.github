@@ -4,7 +4,7 @@
 [![Sponsor](https://img.shields.io/badge/Linkedin-Organization-green?style=for-the-badge)](https://www.linkedin.com/company/bellande-robotics-sensors-research-innovations-center)
 
 
-# 📫 Director & Founder & Owner of RSR Organization
+# 📫 Director & Founder & Owner of BR&SRI Organization
 - **Ronaldson Bellande**
 - **ronaldsonbellande@gmail.com**
 
