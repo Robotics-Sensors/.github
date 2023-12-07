@@ -1,4 +1,4 @@
-# Welcome to the Robotics Sensors & Research Innovations Center 🚀🤖
+# Welcome to the Robotics & Sensors Research Innovations Center 🚀🤖
 
 ## Explore Our Platforms
 
