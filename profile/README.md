@@ -89,4 +89,4 @@ Explore our ongoing research domains, where we delve into cutting-edge advanceme
 - [![Artificial Intelligence Computer Vision](https://img.shields.io/badge/Artificial%20Intelligence%20Computer%20Vision-Explore-0099cc?style=for-the-badge)](https://github.com/Artificial-Intelligence-Computer-Vision)  
 - [![Algorithm Model Research](https://img.shields.io/badge/Algorithm%20Model%20Research-Explore-0099cc?style=for-the-badge)](https://github.com/Algorithm-Model-Research)
 
-Feel free to immerse yourself in the world of innovation and discovery with Robotics Sensors & Research Innovations Center! 🚀✨
+Feel free to immerse yourself in the world of innovation and discovery with Bellande Robotics Sensors & Research Innovations Center! 🚀✨
