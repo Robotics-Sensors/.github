@@ -2,8 +2,8 @@
 
 ## Explore Our Platforms
 
-- [![Sponsor](https://img.shields.io/badge/Sponsor-Robotics%20Sensors%20Research-red?style=for-the-badge&logo=github)](https://github.com/sponsors/Robotics-Sensors)
-- [![LinkedIn](https://img.shields.io/badge/Linkedin-Organization-green?style=for-the-badge)](https://www.linkedin.com/company/bellande-robotics-sensors-research-innovations-center)
+[![Sponsor](https://img.shields.io/badge/Sponsor-Robotics%20Sensors%20Research-red?style=for-the-badge&logo=github)](https://github.com/sponsors/Robotics-Sensors)
+[![LinkedIn](https://img.shields.io/badge/Linkedin-Organization-green?style=for-the-badge)](https://www.linkedin.com/company/bellande-robotics-sensors-research-innovations-center)
 
 ## 📫 Meet Ronaldson Bellande, Director & Founder & Owner
 
