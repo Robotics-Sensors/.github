@@ -4,6 +4,7 @@
 
 [![Sponsor](https://img.shields.io/badge/Sponsor-Robotics%20Sensors%20Research-red?style=for-the-badge&logo=github)](https://github.com/sponsors/Robotics-Sensors)
 [![LinkedIn](https://img.shields.io/badge/Linkedin-Organization-green?style=for-the-badge)](https://www.linkedin.com/company/bellande-robotics-sensors-research-innovations-center)
+[![Youtube](https://img.shields.io/badge/YouTube-Organization-white?style=for-the-badge)](https://www.youtube.com/channel/UC2dG9_JAw4NCug0G98JnQ5A)
 
 ## 📫 Meet Ronaldson Bellande, Director & Founder & Owner
 
