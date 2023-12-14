@@ -7,7 +7,6 @@
 [![Youtube](https://img.shields.io/badge/YouTube-Organization-white?style=for-the-badge)](https://www.youtube.com/channel/UC2dG9_JAw4NCug0G98JnQ5A)
 
 ## 📫 Meet Ronaldson Bellande, Director & Founder & Owner
-
 - 📧 **Email:** ronaldsonbellande@gmail.com
 
 ## 🧙 Organization Website
