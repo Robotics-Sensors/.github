@@ -1,10 +1,10 @@
-<table style="border-collapse: collapse;"><tr><td valign="middle" width="40%" style="text-align: center; vertical-align: middle;">
+<table style="border-collapse: collapse;"><tr><td valign="middle" width="35%" style="text-align: center; vertical-align: middle;">
 <!-- starts -->
 
 <h1 style="margin: 0; padding: 0;">Welcome to the Bellande Robotics & Sensors Research Innovations Center 🚀🤖</h1>
 
 <!-- ends -->
-</td><td valign="top" width="60%">
+</td><td valign="top" width="65%">
 <!-- starts -->
   
 <img src="https://github.com/Robotics-Sensors.png" alt="Organization Logo" style="width: 100%;">
