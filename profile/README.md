@@ -1,4 +1,14 @@
-# Welcome to the Bellande Robotics & Sensors Research Innovations Center 🚀🤖
+<table style="border-collapse: collapse; width: 100%;">
+  <tr>
+    <td style="border: none; width: 30%;">
+      <strong style="font-size: 20px;"> Welcome to the Bellande Robotics & Sensors Research Innovations Center 🚀🤖</strong>
+    </td>
+    <td style="border: none; width: 70%;">
+      <img src="https://github.com/Robotics-Sensors.png" alt="Organization Logo" style="width: 100%;">
+    </td>
+  </tr>
+</table>
+
 
 ## Explore Our Platforms
 
