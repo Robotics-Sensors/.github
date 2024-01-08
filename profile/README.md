@@ -1,4 +1,6 @@
-![Organization Logo](https://github.com/Robotics-Sensors.png)
+<p align="center">
+  <img src="https://github.com/Robotics-Sensors.png" alt="Organization Logo">
+</p>
 
 # Welcome to the Bellande Robotics & Sensors Research Innovations Center 🚀🤖
 
