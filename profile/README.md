@@ -30,7 +30,7 @@
 - [![Organization Website](https://img.shields.io/badge/Explore%20Our-Website-0099cc?style=for-the-badge)](https://robotics-sensors.github.io)
 
 ## 🌱 Join Our Discord Community
-- [![Discord Community](https://img.shields.io/badge/Join%20Our-Discord-7289DA?logo=discord&style=for-the-badge)](https://discord.gg/Yc72nd4w)
+- [![Discord Community](https://img.shields.io/badge/Join%20Our-Discord-7289DA?logo=discord&style=for-the-badge)](https://discord.gg/8Sg79A4BbS)
 
 ## ✨ Team/Community Contribute
 - [![Team/Community Contribute](https://img.shields.io/badge/Team/Community-Contribute-0099cc?style=for-the-badge)](https://github.com/Robotics-Sensors/bellande_robotics_sensors_research_innovations_center_contributor)
