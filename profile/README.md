@@ -38,7 +38,7 @@
 
 ## 🎓 Organization Classroom
 - [![Organization Classroom](https://img.shields.io/badge/Organization-Classroom-00cc66?style=for-the-badge)](https://classroom.github.com/classrooms/94977788-bellande-robotics-sensors-research-innovations-center-classroom)
-- Individuals who are not affiliated as clients, companies, organizations involved in procurement, integral members of the organizational team or contributor contributing to its goals dayly are cordially invited to participate in the organization's educational initiatives.
+- Individuals who are not affiliated as clients, companies, organizations involved in procurement, integral members of the organizational team or contributor contributing to its goals daily are cordially invited to participate in the organization's educational initiatives on how to contribute to the organization more effectively.
 
 ## 🙋‍♀️ Information Organization
 
