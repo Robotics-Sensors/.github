@@ -22,6 +22,7 @@
 
 # 📫 Meet Ronaldson Bellande, President & Executive & Director & Founder & Owner of BR&SRI Center Organization
 - 📧 **Email:** ronaldsonbellande@gmail.com
+- 📧 **Organization Email:** ronaldsonbellande@bellande-robotics-sensors-research-innovation-center.org
 
 # 🧰  Strategic Insights: Inaugural Showcase of Bellande Robotics & Sensors Research Innovations Center Video
   [![Watch the video](https://img.youtube.com/vi/4YAen7L4MMQ/0.jpg)](https://www.youtube.com/watch?v=4YAen7L4MMQ)
