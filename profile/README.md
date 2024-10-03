@@ -48,13 +48,12 @@
 - **Private Resources:** Comprehensive information on Private Application, Architecture, Automation, API, SDK, Packages, Library, and Designs usability and installation will be accessible on our company website.
 - **Full Public API/SDK/Library Details:** In-depth details regarding the usability and installation of Public API, SDK, and Libraries can be found on our company website.
 
-# 💼 Research
-- Researchers from all countries, companies, and laboratories, are encouraged to collaborate and utilize our resources to advance science, technology, engineering, and mathematics. We welcome your insights, expertise, and contributions!
-
 ## 🌈 Research
 - Research related to this organization will be available in research papers published by Ronaldson Bellande.
 - Non-published research will showcase demos on our company website.
 
+# 💼 Research
+- Researchers from all countries, companies, and laboratories, are encouraged to collaborate and utilize our resources to advance science, technology, engineering, and mathematics. We welcome your insights, expertise, and contributions!
 --------------------------------------------------------------------------------------------------------
 
 ## ⚡ Research Domains in Robotics & Sensors
