@@ -44,20 +44,20 @@
 - Individuals who are not affiliated as clients, companies, organizations involved in procurement, integral members of the organizational team or contributor contributing to its goals daily are cordially invited to participate in the organization's educational initiatives on how to contribute to the organization more effectively.
 
 ## 🙋‍♀️ Information Organization
-
 - **Public Resources:** Limited information on Public API, SDK, Packages, and Library usability and installation will be available on our [organization's website](https://robotics-sensors.github.io).
 - **Private Resources:** Comprehensive information on Private Application, Architecture, Automation, API, SDK, Packages, Library, and Designs usability and installation will be accessible on our company website.
 - **Full Public API/SDK/Library Details:** In-depth details regarding the usability and installation of Public API, SDK, and Libraries can be found on our company website.
 
-## 🌈 Research
+# 💼 Research
+- Researchers from all countries, companies, and laboratories, are encouraged to collaborate and utilize our resources to advance science, technology, engineering, and mathematics. We welcome your insights, expertise, and contributions!
 
+## 🌈 Research
 - Research related to this organization will be available in research papers published by Ronaldson Bellande.
 - Non-published research will showcase demos on our company website.
 
 --------------------------------------------------------------------------------------------------------
 
 ## ⚡ Research Domains in Robotics & Sensors
-
 Explore our ongoing research domains, where we delve into cutting-edge advancements and innovation in the field of robotics:
 
 ### 🤖 Humanoid Robotics
@@ -106,11 +106,9 @@ Explore our ongoing research domains, where we delve into cutting-edge advanceme
 
 
 ## 📈 Organization Stats
-
 - [![Profile Views](https://komarev.com/ghpvc/?username=Robotics-Sensors&label=Profile+Views&color=2e8b57&style=flat)](https://github.com/Robotics-Sensors)
 
 # 🍿 Explore Our Synced Organizations 
-
 - [![Application UI/UX](https://img.shields.io/badge/Application%20UI%2FUX-Explore-0099cc?style=for-the-badge)](https://github.com/Application-UI-UX)  
 - [![Artificial Intelligence Computer Vision](https://img.shields.io/badge/Artificial%20Intelligence%20Computer%20Vision-Explore-0099cc?style=for-the-badge)](https://github.com/Artificial-Intelligence-Computer-Vision)  
 - [![Algorithm Model Research](https://img.shields.io/badge/Algorithm%20Model%20Research-Explore-0099cc?style=for-the-badge)](https://github.com/Algorithm-Model-Research)
