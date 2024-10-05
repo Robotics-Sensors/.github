@@ -110,7 +110,7 @@ Explore our ongoing research domains, where we delve into cutting-edge advanceme
 # 🍿 Explore Our Synced Organizations 
 - [![Application UI/UX](https://img.shields.io/badge/Application%20UI%2FUX-Explore-0099cc?style=for-the-badge)](https://github.com/Application-UI-UX)  
 - [![Artificial Intelligence Computer Vision](https://img.shields.io/badge/Artificial%20Intelligence%20Computer%20Vision-Explore-0099cc?style=for-the-badge)](https://github.com/Artificial-Intelligence-Computer-Vision)  
-- [![Algorithm Model Research](https://img.shields.io/badge/Algorithm%20Model%20Research-Explore-0099cc?style=for-the-badge)](https://github.com/Algorithm-Model-Research)
+- [![Architecture Mechanism Research](https://img.shields.io/badge/Architecture%20Mechanism-Explore-0099cc?style=for-the-badge)](https://github.com/Algorithm-Model-Research)
 
 Feel free to immerse yourself in the world of innovation and discovery with Bellande Robotics Sensors & Research Innovations Center! 🚀✨
 
