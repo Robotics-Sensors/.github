@@ -15,13 +15,17 @@
 </td></tr></table>
 
 
-
 ## Explore Our Platforms
 
 [![Sponsor](https://img.shields.io/badge/Sponsor-Robotics%20Sensors%20Research-red?style=for-the-badge&logo=github)](https://github.com/sponsors/Robotics-Sensors)
 [![LinkedIn](https://img.shields.io/badge/Linkedin-Organization-green?style=for-the-badge)](https://www.linkedin.com/company/bellande-robotics-sensors-research-innovations-center)
 [![Youtube](https://img.shields.io/badge/YouTube-Organization-white?style=for-the-badge)](https://www.youtube.com/channel/UC2dG9_JAw4NCug0G98JnQ5A)
 
+## Bellande Robotics Sensors Research Innovation Center Licensing
+- https://github.com/Robotics-Sensors/LICENSING
+- https://github.com/Robotics-Sensors/.github
+
+  
 # 📫 Meet Ronaldson Bellande, President & Executive & Director & Founder & Owner of BR&SRI Center Organization
 - 📧 **Personal Email:** ronaldsonbellande@gmail.com
 - 📧 **Organization Email:** ronaldsonbellande@bellande-robotics-sensors-research-innovation-center.org
