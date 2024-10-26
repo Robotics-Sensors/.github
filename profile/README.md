@@ -112,7 +112,7 @@ Explore our ongoing research domains, where we delve into cutting-edge advanceme
 - [![Profile Views](https://komarev.com/ghpvc/?username=Robotics-Sensors&label=Profile+Views&color=2e8b57&style=flat)](https://github.com/Robotics-Sensors)
 
 # 🍿 Explore Our Synced Organizations 
-- [![Application UI/UX](https://img.shields.io/badge/Application%20UI%2FUX-Explore-0099cc?style=for-the-badge)](https://github.com/Application-UI-UX)  
+- [![Application Interoperability Xenogen](https://img.shields.io/badge/Application%20Interoperability%20Xenogen-Explore-0099cc?style=for-the-badge)](https://github.com/Application-Interoperability-Xenogen)  
 - [![Artificial Intelligence Computer Vision](https://img.shields.io/badge/Artificial%20Intelligence%20Computer%20Vision-Explore-0099cc?style=for-the-badge)](https://github.com/Artificial-Intelligence-Computer-Vision)  
 - [![Architecture Mechanism Research](https://img.shields.io/badge/Architecture%20Mechanism-Explore-0099cc?style=for-the-badge)](https://github.com/Architecture-Mechanism)
 
