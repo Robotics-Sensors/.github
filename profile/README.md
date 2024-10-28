@@ -24,6 +24,7 @@
 ## Bellande Robotics Sensors Research Innovation Center Licensing
 - https://github.com/Robotics-Sensors/LICENSING
 - https://github.com/Robotics-Sensors/.github
+- https://github.com/Robotics-Sensors/CODE_OF_CONDUCT
 
   
 # 📫 Meet Ronaldson Bellande, President & Executive & Director & Founder & Owner of BR&SRI Center Organization
