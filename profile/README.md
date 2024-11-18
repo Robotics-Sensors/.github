@@ -14,8 +14,11 @@
 <!-- ends -->
 </td></tr></table>
 
-# BRSRI Repository (Bellande Technologies Git)
+# BRSRI Git Organization (Bellande Technologies Git)
 [![BRSRI Git Repository Website](https://img.shields.io/badge/BRSRI%20Git%20Repository%20Website-blue?style=for-the-badge&logo=git)](https://git.bellande-technologies.com/BRSRI)
+
+# BRSRI Github Organization
+[![BRSRI Github Repository Website](https://img.shields.io/badge/BRSRI%20Github%20Repository%20Website-blue?style=for-the-badge&logo=github)](https://github.com/Robotics-Sensors)
 
 
 ## Explore Our Platforms
