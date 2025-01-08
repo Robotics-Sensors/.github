@@ -27,11 +27,13 @@
 [![Youtube](https://img.shields.io/badge/YouTube-Organization-white?style=for-the-badge)](https://www.youtube.com/channel/UC2dG9_JAw4NCug0G98JnQ5A)
 
 ## (Bellande Technologies Git) Bellande Robotics Sensors Research Innovation Center Licensing & Code of Conduct
+- https://git.bellande-technologies.com/BRSRI/COPYRIGHT
 - https://git.bellande-technologies.com/BRSRI/LICENSING
 - https://git.bellande-technologies.com/BRSRI/.profile
 - https://git.bellande-technologies.com/BRSRI/CODE_OF_CONDUCT
 
 ## (Github) Bellande Robotics Sensors Research Innovation Center Licensing & Code of Conduct
+- https://github.com/Robotics-Sensors/COPYRIGHT
 - https://github.com/Robotics-Sensors/LICENSING
 - https://github.com/Robotics-Sensors/.github
 - https://github.com/Robotics-Sensors/CODE_OF_CONDUCT
