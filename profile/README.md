@@ -26,14 +26,18 @@
 [![LinkedIn](https://img.shields.io/badge/Linkedin-Organization-green?style=for-the-badge)](https://www.linkedin.com/company/bellande-robotics-sensors-research-innovations-center)
 [![Youtube](https://img.shields.io/badge/YouTube-Organization-white?style=for-the-badge)](https://www.youtube.com/channel/UC2dG9_JAw4NCug0G98JnQ5A)
 
-## (Bellande Technologies Git) Bellande Robotics Sensors Research Innovation Center Copyright, Licensing, Code of Conduct
+## (Bellande Technologies Git) Bellande Robotics Sensors Research Innovation Center Copyright, Trademark, Certification, Licensing, Code of Conduct
 - https://git.bellande-technologies.com/BRSRI/COPYRIGHT
+- https://git.bellande-technologies.com/BRSRI/TRADEMARK
+- https://git.bellande-technologies.com/BRSRI/CERTIFICATION
 - https://git.bellande-technologies.com/BRSRI/LICENSING
 - https://git.bellande-technologies.com/BRSRI/.profile
 - https://git.bellande-technologies.com/BRSRI/CODE_OF_CONDUCT
 
-## (Github) Bellande Robotics Sensors Research Innovation Center Copyright, Licensing, Code of Conduct
+## (Github) Bellande Robotics Sensors Research Innovation Center Copyright, Trademark, Certification, Licensing, Code of Conduct
 - https://github.com/Robotics-Sensors/COPYRIGHT
+- https://github.com/Robotics-Sensors/TRADEMARK
+- https://github.com/Robotics-Sensors/CERTIFICATION
 - https://github.com/Robotics-Sensors/LICENSING
 - https://github.com/Robotics-Sensors/.github
 - https://github.com/Robotics-Sensors/CODE_OF_CONDUCT
