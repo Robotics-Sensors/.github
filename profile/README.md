@@ -26,6 +26,18 @@
 [![LinkedIn](https://img.shields.io/badge/Linkedin-Organization-green?style=for-the-badge)](https://www.linkedin.com/company/bellande-robotics-sensors-research-innovations-center)
 [![Youtube](https://img.shields.io/badge/YouTube-Organization-white?style=for-the-badge)](https://www.youtube.com/channel/UC2dG9_JAw4NCug0G98JnQ5A)
 
+## **Bellande Technologies Corporation Inc., Bellande Research Organizations, and Bellande Laboratories**
+##### *****Governed by Bellande International IP Hub Enforce (BIIPHE)*****
+##### *****https://git.bellande-technologies.com/Bellande-International-IP-Hub-Enforce*****
+- Copyright
+- Organization Overview
+- Intellectual Property Protection
+- Enforcement Framework
+- Compliance and Standards
+- Licensing Structure
+- Certifications
+- Legal Documentation
+
 ## (Bellande Technologies Git) Bellande Robotics Sensors Research Innovation Center Copyright, Trademark, Certification, Licensing, Code of Conduct
 - https://git.bellande-technologies.com/BRSRI/COPYRIGHT
 - https://git.bellande-technologies.com/BRSRI/TRADEMARK
