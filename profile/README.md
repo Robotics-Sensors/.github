@@ -169,6 +169,12 @@ Explore our ongoing research domains, where we delve into cutting-edge advanceme
 - [![Artificial Intelligence Computer Vision](https://img.shields.io/badge/Artificial%20Intelligence%20Computer%20Vision-Explore-0099cc?style=for-the-badge)](https://github.com/Artificial-Intelligence-Computer-Vision)  
 - [![Architecture Mechanism Research](https://img.shields.io/badge/Architecture%20Mechanism-Explore-0099cc?style=for-the-badge)](https://github.com/Architecture-Mechanism)
 
+# 🍿 (Gitlab) Explore Our Synced Organizations 
+- [![Application Interoperability Xenogen](https://img.shields.io/badge/Application%20Interoperability%20Xenogen-Explore-0099cc?style=for-the-badge)](https://gitlab.com/Bellande-Application-Interoperability-Xenogen-Research-Innovations-Center)  
+- [![Artificial Intelligence Computer Vision](https://img.shields.io/badge/Artificial%20Intelligence%20Computer%20Vision-Explore-0099cc?style=for-the-badge)](https://gitlab.com/Bellande-Artificial-Intelligence-Computer-Vision-Research-Inovations-Center)  
+- [![Architecture Mechanism Research](https://img.shields.io/badge/Architecture%20Mechanism-Explore-0099cc?style=for-the-badge)](https://gitlab.com/Bellande-Architecture-Mechanism-Research-Innovations-Center)
+
+
 Feel free to immerse yourself in the world of innovation and discovery with Bellande Robotics Sensors & Research Innovations Center! 🚀✨
 
 <img src="https://github.com/RonaldsonBellande/RonaldsonBellande/blob/main/label/organizations_company.png" alt="Bellande Organizations & Company" width="1000"/>
