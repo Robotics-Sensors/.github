@@ -31,7 +31,7 @@
 - https://git.bellande-technologies.com/BRSRI
 - https://github.com//Robotics-Sensors
 - https://gitlab.com/Bellande-Robotics-Sensors-Research-Innovations-Center
-- https://bitbucket.org/ronaldsonbellande/workspace/projects/BRSRI
+- https://bitbucket.org/bellande-robotics-sensors
 
 ## VPN Needed
 - Local Git
