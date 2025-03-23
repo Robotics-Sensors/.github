@@ -31,11 +31,13 @@
 - https://git.bellande-technologies.com/BRSRI
 - https://github.com//Robotics-Sensors
 - https://gitlab.com/Bellande-Robotics-Sensors-Research-Innovations-Center
+- https://bitbucket.org/ronaldsonbellande/workspace/projects/BRSRI
 
 ## VPN Needed
 - Local Git
 - File Storage
 - Local Git Backup
+- File Storage Backup
 
 ## **Bellande Technologies Corporation Inc., Bellande Research Organizations, and Bellande Laboratories**
 ##### *****Governed by Bellande International IP Hub Enforce (BIIPHE)*****
@@ -70,8 +72,16 @@
 - https://gitlab.com/Bellande-Robotics-Sensors-Research-Innovations-Center/TRADEMARK
 - https://gitlab.com/Bellande-Robotics-Sensors-Research-Innovations-Center/CERTIFICATION
 - https://gitlab.com/Bellande-Robotics-Sensors-Research-Innovations-Center/LICENSING
-- https://gitlab.com/Bellande-Robotics-Sensors-Research-Innovations-Center/.github
+- https://gitlab.com/Bellande-Robotics-Sensors-Research-Innovations-Center/.gitlab-profile
 - https://gitlab.com/Bellande-Robotics-Sensors-Research-Innovations-Center/CODE_OF_CONDUCT
+
+## (Bitbucket) Bellande Robotics Sensors Research Innovation Center Copyright, Trademark, Certification, Licensing, Code of Conduct
+- https://bitbucket.org/bellande-robotics-sensors/COPYRIGHT
+- https://bitbucket.org/bellande-robotics-sensors/TRADEMARK
+- https://bitbucket.org/bellande-robotics-sensors/CERTIFICATION
+- https://bitbucket.org/bellande-robotics-sensors/LICENSING
+- https://bitbucket.org/bellande-robotics-sensors/.profile
+- https://bitbucket.org/bellande-robotics-sensors/CODE_OF_CONDUCT
 
   
 # 📫 Meet Ronaldson Bellande, President & Executive & Director & Founder & Owner of BR&SRI Center Organization
