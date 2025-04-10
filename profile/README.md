@@ -3,7 +3,7 @@
 <table style="border-collapse: collapse;"><tr><td valign="middle" width="35%" style="text-align: center; vertical-align: middle;">
 <!-- starts -->
 
-<h1 style="margin: 0; padding: 0;">Welcome to the Bellande Robotics & Sensors Research Innovations Center 🚀🤖</h1>
+<h1 style="margin: 0; padding: 0;">Welcome to the Bellande Robotics Sensors Research Innovations Center 🚀🤖</h1>
 
 <!-- ends -->
 </td><td valign="top" width="65%">
@@ -29,9 +29,9 @@
 # Bellande Git and Storage Intergration for International Company, International Laboratories, International Research Innovation Organizations and International Law Firm/Solar System Law Firm
 ## No VPN Needed
 - https://git.bellande-technologies.com/BRSRI
-- https://github.com//Robotics-Sensors
+- https://github.com/Robotics-Sensors
 - https://gitlab.com/Bellande-Robotics-Sensors-Research-Innovations-Center
-- https://bitbucket.org/bellande-robotics-sensors
+- https://bitbucket.org/Bellande-Robotics-Sensors
 
 ## VPN Needed
 - Local Git
@@ -76,12 +76,12 @@
 - https://gitlab.com/Bellande-Robotics-Sensors-Research-Innovations-Center/CODE_OF_CONDUCT
 
 ## (Bitbucket) Bellande Robotics Sensors Research Innovation Center Copyright, Trademark, Certification, Licensing, Code of Conduct
-- https://bitbucket.org/bellande-robotics-sensors/COPYRIGHT
-- https://bitbucket.org/bellande-robotics-sensors/TRADEMARK
-- https://bitbucket.org/bellande-robotics-sensors/CERTIFICATION
-- https://bitbucket.org/bellande-robotics-sensors/LICENSING
-- https://bitbucket.org/bellande-robotics-sensors/.profile
-- https://bitbucket.org/bellande-robotics-sensors/CODE_OF_CONDUCT
+- https://bitbucket.org/Bellande-Robotics-Sensors/COPYRIGHT
+- https://bitbucket.org/Bellande-Robotics-Sensors/TRADEMARK
+- https://bitbucket.org/Bellande-Robotics-Sensors/CERTIFICATION
+- https://bitbucket.org/Bellande-Robotics-Sensors/LICENSING
+- https://bitbucket.org/Bellande-Robotics-Sensors/.profile
+- https://bitbucket.org/Bellande-Robotics-Sensors/CODE_OF_CONDUCT
 
   
 # 📫 Meet Ronaldson Bellande, President & Executive & Director & Founder & Owner of BR&SRI Center Organization
@@ -184,7 +184,12 @@ Explore our ongoing research domains, where we delve into cutting-edge advanceme
 - [![Artificial Intelligence Computer Vision](https://img.shields.io/badge/Artificial%20Intelligence%20Computer%20Vision-Explore-0099cc?style=for-the-badge)](https://gitlab.com/Bellande-Artificial-Intelligence-Computer-Vision-Research-Inovations-Center)  
 - [![Architecture Mechanism Research](https://img.shields.io/badge/Architecture%20Mechanism-Explore-0099cc?style=for-the-badge)](https://gitlab.com/Bellande-Architecture-Mechanism-Research-Innovations-Center)
 
+# 🍿 (BitBucket) Explore Our Synced Organizations 
+- [![Application Interoperability Xenogen](https://img.shields.io/badge/Application%20Interoperability%20Xenogen-Explore-0099cc?style=for-the-badge)](https://bitbucket.org/Bellande-Application-Interoperability-Xenogen)  
+- [![Artificial Intelligence Computer Vision](https://img.shields.io/badge/Artificial%20Intelligence%20Computer%20Vision-Explore-0099cc?style=for-the-badge)](https://bitbucket.org/Bellande-Artificial-Intelligence-Computer-Vision)  
+- [![Architecture Mechanism Research](https://img.shields.io/badge/Architecture%20Mechanism-Explore-0099cc?style=for-the-badge)](https://bitbucket.org/Bellande-Architecture-Mechanism)
 
-Feel free to immerse yourself in the world of innovation and discovery with Bellande Robotics Sensors & Research Innovations Center! 🚀✨
+
+Feel free to immerse yourself in the world of innovation and discovery with Bellande Robotics Sensors Research Innovations Center! 🚀✨
 
 <img src="https://github.com/RonaldsonBellande/RonaldsonBellande/blob/main/label/organizations_company.png" alt="Bellande Organizations & Company" width="1000"/>
